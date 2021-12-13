@@ -52,7 +52,7 @@
 NSString *const VisitorId_Id = @"id";
 NSString *const VisitorId_IdType = @"idType";
 NSString *const VisitorId_AuthenticationState = @"authenticationState";
-NSString * environmentID;
+NSString * environmentID = @"0b11157d649c/405f0bddb601/launch-feb2e065d823-staging"; //Pratibha DLP
 static NSString * const POI = @"POI";
 static NSString * const LATITUDE = @"Latitude";
 static NSString * const LONGITUDE = @"Longitude";
